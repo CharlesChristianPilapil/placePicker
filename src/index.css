@@ -231,6 +231,15 @@ header p {
 @media (min-width: 524px) {
   header h1 {
     margin: 0;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    letter-spacing: .5rem;
+  }
+}
+
+@media (min-width: 724px) {
+  header h1 {
+    margin: 0;
     font-size: 3rem;
     text-transform: uppercase;
     letter-spacing: 1rem;
